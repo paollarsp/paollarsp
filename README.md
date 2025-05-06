@@ -2,4 +2,4 @@
 
 📚 Estudante de Análise e Desenvolvimento de Sistemas
 
-![Snake animation](https://github.com/paollarsp/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/paollarsp/paollarsp/blob/output/github-contribution-grid-snake.svg)
