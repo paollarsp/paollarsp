@@ -11,11 +11,13 @@
 
 </div>
 
-<h2>🎓 Sobre mim</h2>
+<h3>🎓 Sobre mim</h3>
 
 Meu nome é Paolla, tenho 20 anos, sou do interior de São Paulo e estou cursando a faculdade de Análise e Desenvolvimento de Sistemas (ADS) na FATEC. Além disso sou Técnica em Mecatrônica pelo SENAI, curso que despertou minha vontade de aprender mais sobre programção e a área tecnológica. 
 
-<h2 align="right">🛠️ Linguagens e tecnologias</h2>
+---
+
+<h3 align="right">🛠️ Linguagens e tecnologias</h3>
 
 <br>
 
