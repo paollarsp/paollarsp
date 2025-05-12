@@ -8,33 +8,32 @@
   
   [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:paollarsp@gmail.com)
   [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/paollarsp/)
-  [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FFC702&color:FFF)](https://www.instagram.com/paollarsp/)
 
 </div>
-  
-<table align = "center">
-  <tr>
-    <td>
-<h3 align="center">🎓 Sobre mim</h3>
 
-📚 Estudante de ADS (FATEC)
+<h3>🎓 Sobre mim</h3>
+
+<p>📚 Estudante de ADS | FATEC</p>
+<p>⚙ Técnica em Mecatrônica | SENAI</p>
+
+---
+
+<h3 align="right">🛠️ Linguagens e tecnologias</h3>
+
 <br>
-📚 Técnica em Mecatrônica
 
-</td>
-    <td>
-<h3 align="center">🛠️ Habilidades</h3>
+<p align="right">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40px" alt="Python" title="Python" style="margin: 10px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="40px" alt="C" title="C" style="margin: 10px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40px" alt="HTML" title="HTML" style="margin: 10px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40px" alt="CSS" title="CSS" style="margin: 10px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="40px" alt="VSCode" title="VSCode" style="margin: 10px"/>
+</p>
 
-Linguagens: Python, HTML, CSS, JavaScript  
-Ferramentas: Git, GitHub, VS Code, Flowgorithm
-
-</td>
-  </tr>
-</table>
-
-
+<div align="center">
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/paollarsp/paollarsp/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/paollarsp/paollarsp/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/paollarsp/paollarsp/output/github-contribution-grid-snake.svg">
 </picture>
+</div>
