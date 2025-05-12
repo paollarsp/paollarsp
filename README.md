@@ -13,7 +13,9 @@
 
 <h3>🎓 Sobre mim</h3>
 
-Meu nome é Paolla, tenho 20 anos, sou do interior de São Paulo e estou cursando a faculdade de Análise e Desenvolvimento de Sistemas (ADS) na FATEC. Além disso sou Técnica em Mecatrônica pelo SENAI, curso que despertou minha vontade de aprender mais sobre programção e a área tecnológica. 
+<p style="text-align: justify">
+  Olá! Meu nome é Paolla, tenho 20 anos, sou do interior de São Paulo e atualmente curso Análise e Desenvolvimento de Sistemas na FATEC. Concluí o ensino médio no SESI, juntamente com o curso técnico em Mecatrônica pelo SENAI — onde nasceu meu interesse por programação e tecnologia. Atualmente, estou aprendendo novas linguagens e ferramentas, e através de projetos, compartilharei meus avanços com vocês aqui!
+</p>
 
 ---
 
