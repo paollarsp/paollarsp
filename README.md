@@ -28,6 +28,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40px" alt="HTML" title="HTML" style="margin: 10px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40px" alt="CSS" title="CSS" style="margin: 10px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="40px" alt="VSCode" title="VSCode" style="margin: 10px"/>
+  <img src="https://images.app.goo.gl/tvijw" width="40px" alt="Portugol" title="Portugol" style="margin: 10px"/>
 </p>
 
 <div align="center">
