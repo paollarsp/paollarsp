@@ -11,32 +11,35 @@
 
 </div>
 
-<h3>🎓 Sobre mim</h3>
+<div align = "center">
+  <h3 align="left">🎓 Sobre mim</h3>
 
+  <p>
   Olá! Meu nome é Paolla, tenho 20 anos, sou do interior de São Paulo e atualmente curso Análise e Desenvolvimento de Sistemas na FATEC. Concluí o ensino médio no SESI, juntamente com o curso técnico em Mecatrônica pelo SENAI — onde nasceu meu interesse por programação e tecnologia. Atualmente, estou aprendendo novas linguagens e ferramentas, e através de projetos, compartilharei meus avanços com vocês aqui!
-
-
----
-
-<h3 align="right">🛠️ Linguagens e tecnologias</h3>
+  </p> 
+  
+  ---
+  
+  <h3 align="right">🛠️ Linguagens e tecnologias</h3>
+  
+  <br>
+  
+  <p align="right">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40px" alt="Python" title="Python" style="margin: 10px"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="40px" alt="C" title="C" style="margin: 10px"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40px" alt="HTML" title="HTML" style="margin: 10px"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40px" alt="CSS" title="CSS" style="margin: 10px"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="40px" alt="VSCode" title="VSCode" style="margin: 10px"/>
+    <img src="https://univali-lite.github.io/Portugol-Studio/assets/img/logo.png" width="40px" alt="Portugol" title="Portugol" style="margin: 10px"/>
+  </p>
+  
+</div>
 
 <br>
 
-<p align="right">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40px" alt="Python" title="Python" style="margin: 10px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="40px" alt="C" title="C" style="margin: 10px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40px" alt="HTML" title="HTML" style="margin: 10px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40px" alt="CSS" title="CSS" style="margin: 10px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="40px" alt="VSCode" title="VSCode" style="margin: 10px"/>
-  <img src="https://univali-lite.github.io/Portugol-Studio/assets/img/logo.png" width="40px" alt="Portugol" title="Portugol" style="margin: 10px"/>
-</p>
-
 <div allign="center">
-  
-![paollarsp's Stats](https://github-readme-stats.vercel.app/api?username=paollarsp&theme=midnight-purple&show_icons=true&hide_border=false&count_private=true)
-
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=paollarsp&theme=midnight-purple&show_icons=true&hide_border=false&layout=compact)
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paollarsp&theme=midnight-purple&show_icons=true&hide_border=false&layout=compact" width="40%" height="40%" align="right">
+  <img src="https://github-readme-stats.vercel.app/api?username=paollarsp&theme=midnight-purple&show_icons=true&hide_border=false&count_private=true" width="56%" height="50%" align="center> 
 </div>
 
 <div align="center">
