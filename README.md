@@ -31,6 +31,10 @@
   <img src="https://univali-lite.github.io/Portugol-Studio/assets/img/logo.png" width="40px" alt="Portugol" title="Portugol" style="margin: 10px"/>
 </p>
 
+![paollarsp's Stats](https://github-readme-stats.vercel.app/api?username=paollarsp&theme=midnight-purple&show_icons=true&hide_border=false&count_private=true)
+
+![paollarsp's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=paollarsp&theme=midnight-purple&show_icons=true&hide_border=false&layout=compact)
+
 <div align="center">
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/paollarsp/paollarsp/output/github-contribution-grid-snake-dark.svg">
