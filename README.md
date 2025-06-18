@@ -31,10 +31,12 @@
   <img src="https://univali-lite.github.io/Portugol-Studio/assets/img/logo.png" width="40px" alt="Portugol" title="Portugol" style="margin: 10px"/>
 </p>
 
+<div allign="center">
+  
 ![paollarsp's Stats](https://github-readme-stats.vercel.app/api?username=paollarsp&theme=midnight-purple&show_icons=true&hide_border=false&count_private=true)
 
-<div align=right>
-![paollarsp's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=paollarsp&theme=midnight-purple&show_icons=true&hide_border=false&layout=compact)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=paollarsp&theme=midnight-purple&show_icons=true&hide_border=false&layout=compact)
+
 </div>
 
 <div align="center">
