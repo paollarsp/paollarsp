@@ -11,7 +11,6 @@
 
 </div>
 
-<div align = "center">
   <h3 align="left">🎓 Sobre mim</h3>
 
   <p>
@@ -33,7 +32,6 @@
     <img src="https://univali-lite.github.io/Portugol-Studio/assets/img/logo.png" width="40px" alt="Portugol" title="Portugol" style="margin: 10px"/>
   </p>
   
-</div>
 
 <br>
 
